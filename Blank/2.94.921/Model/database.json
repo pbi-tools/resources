@@ -1,0 +1,17 @@
+{
+  "name": "2_94_921",
+  "compatibilityLevel": 1550,
+  "model": {
+    "culture": "en-US",
+    "annotations": [
+      {
+        "name": "PBIDesktopVersion",
+        "value": "2.94.921.0 (21.06)"
+      },
+      {
+        "name": "__PBI_TimeIntelligenceEnabled",
+        "value": "0"
+      }
+    ]
+  }
+}

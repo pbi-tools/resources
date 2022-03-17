@@ -1,0 +1,33 @@
+{
+  "version": "5.20",
+  "themeCollection": {
+    "baseTheme": {
+      "name": "CY21SU04",
+      "version": "5.21",
+      "type": 2
+    }
+  },
+  "activeSectionIndex": 0,
+  "defaultDrillFilterOtherVisuals": true,
+  "settings": {
+    "useNewFilterPaneExperience": true,
+    "allowChangeFilterTypes": true,
+    "useStylableVisualContainerHeader": true,
+    "exportDataMode": 1
+  },
+  "objects": {
+    "section": [
+      {
+        "properties": {
+          "verticalAlignment": {
+            "expr": {
+              "Literal": {
+                "Value": "'Top'"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

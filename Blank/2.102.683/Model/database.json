@@ -1,0 +1,17 @@
+{
+  "name": "2_102_683",
+  "compatibilityLevel": 1550,
+  "model": {
+    "culture": "en-US",
+    "annotations": [
+      {
+        "name": "PBIDesktopVersion",
+        "value": "2.102.683.0 (22.02)"
+      },
+      {
+        "name": "__PBI_TimeIntelligenceEnabled",
+        "value": "0"
+      }
+    ]
+  }
+}
